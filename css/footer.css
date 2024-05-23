@@ -96,8 +96,8 @@ footer div.wrap ul.fnb>li ul li a:after{
 }
 footer div.wrap ul.fnb>li ul li a:hover{
   border-radius: 5px;
-  width: calc(100% - 60px); /* 좌우로 5px씩 확장 */
-  height: calc(100% + 10px); /* 위아래로 5px씩 확장 */
+  width: 100%; /* 좌우로 5px씩 확장 */
+  height: 100%; /* 위아래로 5px씩 확장 */
   background-color: rgba(139,149,161,.1); /* 배경색 설정 */
 }
 /* fnb2  */
